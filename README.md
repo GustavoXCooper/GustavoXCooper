@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FqanJibDVkeG5zeXFuMXd3YmZna3pzZGlkbmJra3U4NDBiMXgwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUBR5cMBxA0ydwHy6I/giphy.gif"
 <!--
 **GustavoXCooper/GustavoXCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
