@@ -3,7 +3,6 @@ I'm Gustavo Cooper and I'm still trynna find my way as a dev
 
 <ul>
   <li> Análise e Desenvolvimento de Sistemas (2/5) </li>
-  <li> Focusing on learning in PHP for now </li>
 </ul>
 
 <div>
