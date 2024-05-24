@@ -15,6 +15,8 @@ I'm Gustavo Cooper and I'm still trynna find my way as a dev
 </div>
  
 <h1> To contac me: </h1>
+<br/>
+<br/>
 <a href="https://www.linkedin.com/in/gustavo-cooper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 
