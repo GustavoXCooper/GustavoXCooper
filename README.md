@@ -2,7 +2,7 @@
 I'm Gustavo Cooper and I'm still trynna find my way as a dev
 
 <ul>
-  <li> Análise e Desenvolvimento de Sistemas (2/5) </li>
+  <li> Análise e Desenvolvimento de Sistemas (4/5) </li>
 </ul>
 
 <div style="display: flex; align-items: center;">
